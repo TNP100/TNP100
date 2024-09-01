@@ -1,0 +1,7 @@
+# Example integer
+integer_value = 10
+
+# Convert integer to float
+float_value = float(integer_value)
+
+print(float_value)  # Output: 10.0
